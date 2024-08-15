@@ -31,7 +31,36 @@ int main() {
 
 
 }
+
 B.
+char *ptra;
+    int *ptrc;
+    long *ptrf;
+    float *ptrg;
+    double *ptrh;
+
+
+
+
+    *ptra = &key;
+    printf("%ld \n", sizeof(key));
+    *ptra = &chose; 
+    printf("%ld \n", sizeof(chose));
+    *ptrc = &x;
+    printf("%ld \n", sizeof(x));
+    *ptrc = &num;
+    printf("%ld \n", sizeof(num));
+    *ptrc = &count;
+    printf("%ld \n", sizeof(count));
+    *ptrf = &date
+    printf("%ld \n", sizeof(date));
+    *ptrg = &yield;
+    printf("%ld \n", sizeof(yield));
+    *ptrh = &price;
+    printf("%ld \n", sizeof(price));
+
+
+    return 0;
 
 
 
