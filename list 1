@@ -1,0 +1,44 @@
+1.
+
+2.4 bytes ,4 bytes ,8 bytes ,8 bytes 
+
+
+3.
+
+
+4.o endereço de memoria da variavel.
+
+
+5.
+
+
+
+6.
+a.(*prices + 5)
+b.(*grades + 2)
+c.(*yiled + 10)
+d.(*dist + 9)
+e.(*mile + 0)
+f.(*temp + 20)
+g.(*celsicus + 16)
+H.(*num + 50)
+
+
+7.
+a.message[10]
+b.yrs[6]
+c.stocks[2]
+d.rates[15]
+e.code[19]
+
+
+
+8.
+
+
+
+9.
+
+
+
+10.
